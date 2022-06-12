@@ -1,4 +1,4 @@
-![Scrrenshot](./src/components/img/screenshot.png)
+![Screenshot](./src/components/img/screenshot.png)
 
 
 This Website was crafted by - @chaniru.lk - instagram
